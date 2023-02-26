@@ -5,7 +5,7 @@ export default class Product extends Component {
     return (
       <div>
         <Card>
-          <Card.Body>This is some text within a card body.</Card.Body>
+          <Card.Body>This isEEEEEEEEEEEE some text within a card body.</Card.Body>
         </Card>
       </div>
     );
